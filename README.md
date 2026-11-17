@@ -148,7 +148,6 @@ This project is based on the research paper:
 
 - **Authors:** Anuj Ladkat, Manoj Reddy, Varun Kolte, Yusra Khan, and Nandkumar Kulkarni.
 - **Institution:** MIT School of Computing, MIT Art, Design and Technology University, Pune.
-- **Publication:** Innovative Global Technology Trends – 2024, MIT-ADT Abhivruddhi.
 
 ## Disclaimer
 
